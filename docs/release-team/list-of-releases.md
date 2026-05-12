@@ -1,5 +1,4 @@
-(list-of-releases)=
-# List of releases
+(list-of-releases)=List of releases
 
 
 {ref}`Releases are published <ubuntu-releases>` by the
